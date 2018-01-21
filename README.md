@@ -1,3 +1,4 @@
 # Hello-World
-Just another repeository
-Just another new guy
+Just another repository.
+Just another new guy.
+Just making changes.
